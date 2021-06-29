@@ -11,14 +11,7 @@ This project is purchased & used primarily by the following company(s):
   
 ## Features
 
-- Custom graphics for divs & other elements
-- High-quality photos of school & faculty
-- Full web2.0 experience & support
-- Responsive design for all modern devices
-- Enrollment/point of contact for front office
-- Central portal to useful childcare resources
-- Facebook integration for instant-feed updates
-- Placard tree for donations
+- Will be included soon!
 
 ## Acknowledgements
 
