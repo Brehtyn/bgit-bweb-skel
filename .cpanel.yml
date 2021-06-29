@@ -1,0 +1,12 @@
+---
+    deployment:
+        tasks:
+            - export DEPLOYPATH=/home/s7arpy7c7ysm/public_html/
+            - /bin/cp index.html $DEPLOYPATH
+            - /bin/cp style.css $DEPLOYPATH
+            - /bin/cp about_us.html $DEPLOYPATH
+            - /bin/cp enroll.html $DEPLOYPATH
+            - /bin/cp parent_info.html $DEPLOYPATH
+            - /bin/cp donation.html $DEPLOYPATH
+            - /bin/cp scholarships.html $DEPLOYPATH
+            - /bin/cp -R assets $DEPLOYPATH
