@@ -1,0 +1,22 @@
+
+Sitemap: http://glcec.org/sitemap.txt
+
+User-agent: *
+Disallow: /contactForm.php
+Disallow: /enrollForm.php
+Disallow: /privateForm.php
+
+User-agent: Baiduspider
+User-agent: Yisouspider
+User-agent: PetalBot
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /
+
+User-agent: Sogou web spider
+Disallow: /
+
+User-agent: Sogou inst spider
+Disallow: /
+
