@@ -1,10 +1,8 @@
 
-Sitemap: http://glcec.org/sitemap.txt
+Sitemap: http:/example/sitemap.txt
 
 User-agent: *
 Disallow: /contactForm.php
-Disallow: /enrollForm.php
-Disallow: /privateForm.php
 
 User-agent: Baiduspider
 User-agent: Yisouspider

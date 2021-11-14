@@ -1,6 +1,3 @@
-https://www.glcec.org/
-https://www.glcec.org/pages/enroll.html
-https://www.glcec.org/pages/about_us.html
-https://www.glcec.org/pages/parent_info.html
-https://www.glcec.org/pages/donation.html
-https://www.glcec.org/pages/scholarships.html
+https://www.example.org/
+https://www.example/pages/contact.html
+https://www.example/pages/about.html

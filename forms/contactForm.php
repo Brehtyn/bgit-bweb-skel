@@ -4,13 +4,13 @@ $name = $_POST['name'];
 $phone = $_POST['phone'];
 $visitor_email = $_POST['email'];
 $message = $_POST['message'];
-$url='https://www.glcec.org/';
+$url='https://www.example.org/';
 
-$email_from = "admin@glcec.org";
+$email_from = "admin@example.org";
 
-$to = "brent.hanna@gmail.com";
+$to = "example.com";
 
-$email_subject = "Contact Form from GLCEC.org";
+$email_subject = "Contact Form from example.org";
 
 $headers = "From: $email_from \r\n";
 
