@@ -11,7 +11,7 @@ Suitable for websites that have static data needs and want a fully responsive an
 
 ## Used By
 
-This project is "purchased" & used primarily by the following company(s):
+This project is used primarily by the following company(s):
 
 - Bigital (https://iBigital.com)
 
@@ -30,8 +30,8 @@ for the following projects :
 
 HTML/CSS/JS/PHP... duh.
 
-Best ran on dedicated hosting services.
-(APACHE/LINUX RECOMMENDED)
+Best ran on dedicated hosting services (APACHE/LINUX RECOMMENDED).
+
 Contact [Brentyn](https://ibigital.com/) for more info.
 
 
