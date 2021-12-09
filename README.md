@@ -28,7 +28,7 @@ for the following projects :
 
 ## Tech Stack
 
-HTML/CSS/JS/PHP... duh.
+HTML/CSS/JS/PHP
 
 Best ran on dedicated hosting services (APACHE/LINUX RECOMMENDED).
 
