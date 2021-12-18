@@ -1,4 +1,6 @@
-# ![Logo](https://github.com/Brehtyn/bgit-bweb-skel/blob/main/assets/common/favicon.ico?raw=true) Basic Website Skeleton
+# ![Logo](https://github.com/Brehtyn/bgit-bweb-skel/blob/main/html-css-js-php/assets/common/favicon.ico?raw=true) Website Skeleton Templates
+
+!!! Currently going through revisions, readme applies to html-css-js-php template currently !!!
 
 Bigital's Skeleton for HTML / CSS frontend websites with basic Javascript logic and PHP form handling "backends".
 
