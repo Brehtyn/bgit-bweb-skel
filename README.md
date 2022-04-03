@@ -8,7 +8,7 @@ Suitable for websites that have static data needs and want a fully responsive an
 
 ## Screenshots
 
-![Website Screenshot](https://github.com/Brehtyn/bgit-bweb-skel/blob/main/assets/common/SharedScreenshot.jpg?raw=true)
+![Website Screenshot](https://github.com/Brehtyn/bgit-bweb-skel/blob/main/html-css-js-php/assets/common//SharedScreenshot.jpg?raw=true)
 
 
 ## Used By
